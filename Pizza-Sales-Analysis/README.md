@@ -1,13 +1,13 @@
-#🍕 Pizza Sales Performance Analysis
+🍕 Pizza Sales Performance Analysis
 
-##End-to-End Data Analyst Project (SQL + Power BI)
+End-to-End Data Analyst Project (SQL + Power BI)
 
-##📌 Project Overview
+📌 Project Overview
 
 This project analyzes pizza sales data to evaluate overall business performance, identify sales trends, understand customer purchasing behavior, and measure product performance.
 The analysis was performed using PostgreSQL for data querying and Power BI for interactive dashboard visualization, focusing on business-driven insights rather than just charts.
 
-##🎯 Business Objective
+🎯 Business Objective
 
 Analyze total sales performance and order behavior
 
@@ -19,13 +19,13 @@ Discover peak sales days, times, and seasonal trends
 
 Support data-driven decisions for revenue growth and menu optimization
 
-##🛠️ Tools & Technologies
+🛠️ Tools & Technologies
 
 Database: PostgreSQL
 
 Visualization: Power BI
 
-##Skills Used:
+Skills Used:
 
 SQL (aggregation, filtering, percentage contribution, time-based analysis)
 
@@ -35,7 +35,7 @@ Data visualization & storytelling
 
 Dashboard design
 
-##📊 Key KPIs
+📊 Key KPIs
 
 Total Revenue: ₹817.86K
 
@@ -47,7 +47,7 @@ Average Pizzas per Order: 2.32
 
 Average Order Value (AOV): ₹38.31
 
-##📈 Key Insights
+📈 Key Insights
 🔹 Overall Performance
 
 The business generated ₹817.86K in revenue from 21,350 orders, selling 49,574 pizzas.
@@ -90,9 +90,7 @@ These pizzas are ideal candidates for promotions and combo deals.
 
 Brie Care Pizza consistently records the lowest revenue, quantity sold, and order count.
 
-Other low-performing pizzas show limited demand, suggesting opportunities for menu optimization or replacement.
-
-##💡 Business Recommendations
+Other low-performing pizzas show limited demand, suggesting opportunities for menu optimization or replacement.💡 Business Recommendations
 
 Focus staffing and marketing efforts on midweek peak days (Wed–Fri).
 
@@ -102,7 +100,7 @@ Use top-performing pizzas (Classic Deluxe & Thai Chicken) in featured deals.
 
 Review or replace low-performing pizzas to improve operational efficiency and profitability.
 
-##📊 Dashboard Overview
+📊 Dashboard Overview
 
 The Power BI dashboard includes:
 
@@ -118,7 +116,7 @@ Interactive slicers for date range and pizza category
 
 📸 Dashboard Preview:
 
-##📎 Conclusion
+📎 Conclusion
 
 This project demonstrates my ability to perform end-to-end data analysis, from SQL-based data exploration to building business-focused dashboards in Power BI. The insights generated can directly support strategic decision-making in a real-world business scenario.
 
@@ -127,3 +125,4 @@ This project demonstrates my ability to perform end-to-end data analysis, from S
 Raunak Ansari
 
 Aspiring Data Analyst | SQL | Power BI
+
