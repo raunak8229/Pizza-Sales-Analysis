@@ -115,6 +115,9 @@ Best & worst-selling pizza analysis
 
 Interactive slicers for date range and pizza category
 
+**Dashboard Preview:-**<img width="860" height="483" alt="Dashboard1" src="https://github.com/user-attachments/assets/61c7ccda-a516-4614-8c60-c05598d17558" />
+<img width="856" height="481" alt="Dashboard2" src="https://github.com/user-attachments/assets/b83a18f2-8d02-497b-a9c1-61855093c1cc" />
+
 📎 **Conclusion**
 
 This project demonstrates my ability to perform end-to-end data analysis, from SQL-based data exploration to building business-focused dashboards in Power BI. The insights generated can directly support strategic decision-making in a real-world business scenario.
@@ -125,5 +128,6 @@ This project demonstrates my ability to perform end-to-end data analysis, from S
 Aspiring Data Analyst | SQL | Power BI | Pyhton | Statistics
 - **LinkedIn**: (https://www.linkedin.com/in/raunakansari797)
 - **GMAIL**: (raunaka48@gmail.com)
+
 
 
